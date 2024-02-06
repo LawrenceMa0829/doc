@@ -1,0 +1,466 @@
+﻿Location,Division,Property,Revenue,Year
+China,Gaming,Parisian,30,2023
+Hong Kong,Non-Gaming,Sands China,19,2022
+Macau,Gaming,Venetian,22,2021
+Malaysia,Non-Gaming,Plaza Macao,25,2023
+Other,Gaming,Londoner,22,2022
+Germany,Non-Gaming,Parisian,34,2021
+France,Gaming,Sands China,2,2023
+Italy,Non-Gaming,Venetian,17,2022
+South Korea,Gaming,Plaza Macao,19,2021
+United States,Non-Gaming,Londoner,10,2023
+India,Gaming,Parisian,12,2022
+Russia,Non-Gaming,Sands China,16,2021
+Brazil,Gaming,Venetian,20,2023
+Mexico,Non-Gaming,Plaza Macao,16,2022
+United Kingdom,Gaming,Londoner,4,2021
+Canada,Non-Gaming,Parisian,20,2023
+Australia,Gaming,Sands China,20,2022
+Spain,Non-Gaming,Venetian,9,2021
+Japan,Gaming,Plaza Macao,12,2023
+China,Non-Gaming,Londoner,70,2022
+Hong Kong,Gaming,Parisian,30,2021
+Macau,Non-Gaming,Sands China,21,2023
+Malaysia,Gaming,Venetian,10,2022
+Other,Non-Gaming,Plaza Macao,8,2021
+Germany,Gaming,Londoner,5,2023
+France,Non-Gaming,Parisian,8,2022
+Italy,Gaming,Sands China,22,2021
+South Korea,Non-Gaming,Venetian,3,2023
+United States,Gaming,Plaza Macao,21,2022
+India,Non-Gaming,Londoner,3,2021
+Russia,Gaming,Parisian,2,2023
+Brazil,Non-Gaming,Sands China,32,2022
+Mexico,Gaming,Venetian,38,2021
+United Kingdom,Non-Gaming,Plaza Macao,33,2023
+Canada,Gaming,Londoner,38,2022
+Australia,Non-Gaming,Parisian,23,2021
+Spain,Gaming,Sands China,33,2023
+Japan,Non-Gaming,Venetian,5,2022
+China,Gaming,Plaza Macao,20,2021
+Hong Kong,Non-Gaming,Londoner,30,2023
+Macau,Gaming,Parisian,18,2022
+Malaysia,Non-Gaming,Sands China,24,2021
+Other,Gaming,Venetian,32,2023
+Germany,Non-Gaming,Plaza Macao,30,2022
+France,Gaming,Londoner,27,2021
+Italy,Non-Gaming,Parisian,7,2023
+South Korea,Gaming,Sands China,28,2022
+United States,Non-Gaming,Venetian,30,2021
+India,Gaming,Plaza Macao,12,2023
+Russia,Non-Gaming,Londoner,22,2022
+Brazil,Gaming,Parisian,5,2021
+Mexico,Non-Gaming,Sands China,13,2023
+United Kingdom,Gaming,Venetian,32,2022
+Canada,Non-Gaming,Plaza Macao,25,2021
+Australia,Gaming,Londoner,23,2023
+Spain,Non-Gaming,Parisian,14,2022
+Japan,Gaming,Sands China,10,2021
+China,Non-Gaming,Venetian,26,2023
+Hong Kong,Gaming,Plaza Macao,50,2022
+Macau,Non-Gaming,Londoner,27,2021
+Malaysia,Gaming,Parisian,5,2023
+Other,Non-Gaming,Sands China,4,2022
+Germany,Gaming,Venetian,60,2021
+France,Non-Gaming,Plaza Macao,45,2023
+Italy,Gaming,Londoner,43,2022
+South Korea,Non-Gaming,Parisian,33,2021
+United States,Gaming,Sands China,14,2023
+India,Non-Gaming,Venetian,35,2022
+Russia,Gaming,Plaza Macao,8,2021
+Brazil,Non-Gaming,Londoner,37,2023
+Mexico,Gaming,Parisian,7,2022
+United Kingdom,Non-Gaming,Sands China,6,2021
+Canada,Gaming,Venetian,37,2023
+Australia,Non-Gaming,Plaza Macao,38,2022
+Spain,Gaming,Londoner,26,2021
+Japan,Non-Gaming,Parisian,31,2023
+China,Gaming,Sands China,20,2022
+Hong Kong,Non-Gaming,Venetian,27,2021
+Macau,Gaming,Plaza Macao,40,2023
+Malaysia,Non-Gaming,Londoner,15,2022
+Other,Gaming,Parisian,23,2021
+Germany,Non-Gaming,Sands China,13,2023
+France,Gaming,Venetian,32,2022
+Italy,Non-Gaming,Plaza Macao,36,2021
+South Korea,Gaming,Londoner,24,2023
+United States,Non-Gaming,Parisian,22,2022
+India,Gaming,Sands China,5,2021
+Russia,Non-Gaming,Venetian,24,2023
+Brazil,Gaming,Plaza Macao,26,2022
+Mexico,Non-Gaming,Londoner,9,2021
+United Kingdom,Gaming,Parisian,18,2023
+Canada,Non-Gaming,Sands China,3,2022
+Australia,Gaming,Venetian,10,2021
+Spain,Non-Gaming,Plaza Macao,23,2023
+Japan,Gaming,Londoner,41,2022
+China,Non-Gaming,Parisian,39,2021
+Hong Kong,Gaming,Sands China,35,2023
+Macau,Non-Gaming,Venetian,44,2022
+Malaysia,Gaming,Plaza Macao,33,2021
+Other,Non-Gaming,Londoner,36,2023
+Germany,Gaming,Parisian,13,2022
+France,Non-Gaming,Sands China,26,2021
+Italy,Gaming,Venetian,5,2023
+South Korea,Non-Gaming,Plaza Macao,15,2022
+United States,Gaming,Londoner,40,2021
+India,Non-Gaming,Parisian,28,2023
+Russia,Gaming,Sands China,34,2022
+Brazil,Non-Gaming,Venetian,18,2021
+Mexico,Gaming,Plaza Macao,10,2023
+United Kingdom,Non-Gaming,Londoner,28,2022
+Canada,Gaming,Parisian,5,2021
+Australia,Non-Gaming,Sands China,28,2023
+Spain,Gaming,Venetian,4,2022
+Japan,Non-Gaming,Plaza Macao,4,2021
+China,Gaming,Londoner,55,2023
+Hong Kong,Non-Gaming,Parisian,27,2022
+Macau,Gaming,Sands China,23,2021
+Malaysia,Non-Gaming,Venetian,28,2023
+Other,Gaming,Plaza Macao,23,2022
+Germany,Non-Gaming,Londoner,25,2021
+France,Gaming,Parisian,1,2023
+Italy,Non-Gaming,Sands China,12,2022
+South Korea,Gaming,Venetian,19,2021
+United States,Non-Gaming,Plaza Macao,10,2023
+India,Gaming,Londoner,30,2022
+Russia,Non-Gaming,Parisian,15,2021
+Brazil,Gaming,Sands China,15,2023
+Mexico,Non-Gaming,Venetian,7,2022
+United Kingdom,Gaming,Plaza Macao,10,2021
+Canada,Non-Gaming,Londoner,26,2023
+Australia,Gaming,Parisian,5,2022
+Spain,Non-Gaming,Sands China,19,2021
+Japan,Gaming,Venetian,2,2023
+China,Non-Gaming,Plaza Macao,68,2022
+Hong Kong,Gaming,Londoner,12,2021
+Macau,Non-Gaming,Parisian,15,2023
+Malaysia,Gaming,Sands China,22,2022
+Other,Non-Gaming,Venetian,20,2021
+Germany,Gaming,Plaza Macao,14,2023
+France,Non-Gaming,Londoner,12,2022
+Italy,Gaming,Parisian,0,2021
+South Korea,Non-Gaming,Sands China,12,2023
+United States,Gaming,Venetian,7,2022
+India,Non-Gaming,Plaza Macao,7,2021
+Russia,Gaming,Londoner,7,2023
+Brazil,Non-Gaming,Parisian,14,2022
+Mexico,Gaming,Sands China,15,2021
+United Kingdom,Non-Gaming,Venetian,18,2023
+Canada,Gaming,Plaza Macao,1,2022
+Australia,Non-Gaming,Londoner,8,2021
+Spain,Gaming,Parisian,5,2023
+Japan,Non-Gaming,Sands China,3,2022
+China,Gaming,Venetian,66,2021
+Hong Kong,Non-Gaming,Plaza Macao,52,2023
+Macau,Gaming,Londoner,48,2022
+Malaysia,Non-Gaming,Parisian,15,2021
+Other,Gaming,Sands China,21,2023
+Germany,Non-Gaming,Venetian,25,2022
+France,Gaming,Plaza Macao,20,2021
+Italy,Non-Gaming,Londoner,6,2023
+South Korea,Gaming,Parisian,25,2022
+United States,Non-Gaming,Sands China,25,2021
+India,Gaming,Venetian,12,2023
+Russia,Non-Gaming,Plaza Macao,15,2022
+Brazil,Gaming,Londoner,4,2021
+Mexico,Non-Gaming,Parisian,14,2023
+United Kingdom,Gaming,Sands China,24,2022
+Canada,Non-Gaming,Venetian,12,2021
+Australia,Gaming,Plaza Macao,9,2023
+Spain,Non-Gaming,Londoner,6,2022
+Japan,Gaming,Parisian,9,2021
+China,Non-Gaming,Sands China,88,2023
+Hong Kong,Gaming,Venetian,66,2022
+Macau,Non-Gaming,Plaza Macao,24,2021
+Malaysia,Gaming,Londoner,4,2023
+Other,Non-Gaming,Parisian,3,2022
+Germany,Gaming,Sands China,14,2021
+France,Non-Gaming,Venetian,13,2023
+Italy,Gaming,Plaza Macao,15,2022
+South Korea,Non-Gaming,Londoner,18,2021
+United States,Gaming,Parisian,15,2023
+India,Non-Gaming,Sands China,24,2022
+Russia,Gaming,Venetian,0,2021
+Brazil,Non-Gaming,Plaza Macao,11,2023
+Mexico,Gaming,Londoner,13,2022
+United Kingdom,Non-Gaming,Parisian,7,2021
+Canada,Gaming,Sands China,30,2023
+Australia,Non-Gaming,Venetian,41,2022
+Spain,Gaming,Plaza Macao,38,2021
+Japan,Non-Gaming,Londoner,34,2023
+China,Gaming,Parisian,73,2022
+Hong Kong,Non-Gaming,Sands China,35,2021
+Macau,Gaming,Venetian,38,2023
+Malaysia,Non-Gaming,Plaza Macao,15,2022
+Other,Gaming,Londoner,28,2021
+Germany,Non-Gaming,Parisian,7,2023
+France,Gaming,Sands China,17,2022
+Italy,Non-Gaming,Venetian,36,2021
+South Korea,Gaming,Plaza Macao,28,2023
+United States,Non-Gaming,Londoner,26,2022
+India,Gaming,Parisian,16,2021
+Russia,Non-Gaming,Sands China,12,2023
+Brazil,Gaming,Venetian,29,2022
+Mexico,Non-Gaming,Plaza Macao,7,2021
+United Kingdom,Gaming,Londoner,30,2023
+Canada,Non-Gaming,Parisian,6,2022
+Australia,Gaming,Sands China,5,2021
+Spain,Non-Gaming,Venetian,22,2023
+Japan,Gaming,Plaza Macao,27,2022
+China,Non-Gaming,Londoner,66,2021
+Hong Kong,Gaming,Parisian,45,2023
+Macau,Non-Gaming,Sands China,16,2022
+Malaysia,Gaming,Venetian,23,2021
+Other,Non-Gaming,Plaza Macao,3,2023
+Germany,Gaming,Londoner,14,2022
+France,Non-Gaming,Parisian,21,2021
+Italy,Gaming,Sands China,12,2023
+South Korea,Non-Gaming,Venetian,47,2022
+United States,Gaming,Plaza Macao,48,2021
+India,Non-Gaming,Londoner,33,2023
+Russia,Gaming,Parisian,39,2022
+Brazil,Non-Gaming,Sands China,25,2021
+Mexico,Gaming,Venetian,34,2023
+United Kingdom,Non-Gaming,Plaza Macao,4,2022
+Canada,Gaming,Londoner,19,2021
+Australia,Non-Gaming,Parisian,29,2023
+Spain,Gaming,Sands China,17,2022
+Japan,Non-Gaming,Venetian,36,2021
+China,Gaming,Plaza Macao,40,2023
+Hong Kong,Non-Gaming,Londoner,50,2022
+Macau,Gaming,Parisian,25,2021
+Malaysia,Non-Gaming,Sands China,6,2023
+Other,Gaming,Venetian,27,2022
+Germany,Non-Gaming,Plaza Macao,29,2021
+France,Gaming,Londoner,11,2023
+Italy,Non-Gaming,Parisian,21,2022
+South Korea,Gaming,Sands China,4,2021
+United States,Non-Gaming,Venetian,12,2023
+India,Gaming,Plaza Macao,43,2022
+Russia,Non-Gaming,Londoner,32,2021
+Brazil,Gaming,Parisian,30,2023
+Mexico,Non-Gaming,Sands China,23,2022
+United Kingdom,Gaming,Venetian,9,2021
+Canada,Non-Gaming,Plaza Macao,25,2023
+Australia,Gaming,Londoner,5,2022
+Spain,Non-Gaming,Parisian,26,2021
+Japan,Gaming,Sands China,4,2023
+China,Non-Gaming,Venetian,80,2022
+Hong Kong,Gaming,Plaza Macao,50,2021
+Macau,Non-Gaming,Londoner,35,2023
+Malaysia,Gaming,Parisian,43,2022
+Other,Non-Gaming,Sands China,23,2021
+Germany,Gaming,Venetian,13,2023
+France,Non-Gaming,Plaza Macao,35,2022
+Italy,Gaming,Londoner,7,2021
+South Korea,Non-Gaming,Parisian,36,2023
+United States,Gaming,Sands China,6,2022
+India,Non-Gaming,Venetian,5,2021
+Russia,Gaming,Plaza Macao,24,2023
+Brazil,Non-Gaming,Londoner,30,2022
+Mexico,Gaming,Parisian,26,2021
+United Kingdom,Non-Gaming,Sands China,32,2023
+Canada,Gaming,Venetian,26,2022
+Australia,Non-Gaming,Plaza Macao,28,2021
+Spain,Gaming,Londoner,2,2023
+Japan,Non-Gaming,Parisian,14,2022
+China,Gaming,Sands China,44,2021
+Hong Kong,Non-Gaming,Venetian,66,2023
+Macau,Gaming,Plaza Macao,16,2022
+Malaysia,Non-Gaming,Londoner,28,2021
+Other,Gaming,Parisian,27,2023
+Germany,Non-Gaming,Sands China,25,2022
+France,Gaming,Venetian,4,2021
+Italy,Non-Gaming,Plaza Macao,23,2023
+South Korea,Gaming,Londoner,25,2022
+United States,Non-Gaming,Parisian,9,2021
+India,Gaming,Sands China,18,2023
+Russia,Non-Gaming,Venetian,3,2022
+Brazil,Gaming,Plaza Macao,10,2021
+Mexico,Non-Gaming,Londoner,15,2023
+United Kingdom,Gaming,Parisian,19,2022
+Canada,Non-Gaming,Sands China,28,2021
+Australia,Gaming,Venetian,26,2023
+Spain,Non-Gaming,Plaza Macao,18,2022
+Japan,Gaming,Londoner,16,2021
+China,Non-Gaming,Parisian,82,2023
+Hong Kong,Gaming,Sands China,44,2022
+Macau,Non-Gaming,Venetian,60,2021
+Malaysia,Gaming,Plaza Macao,9,2023
+Other,Non-Gaming,Londoner,8,2022
+Germany,Gaming,Parisian,16,2021
+France,Non-Gaming,Sands China,17,2023
+Italy,Gaming,Venetian,20,2022
+South Korea,Non-Gaming,Plaza Macao,2,2021
+United States,Gaming,Londoner,9,2023
+India,Non-Gaming,Parisian,6,2022
+Russia,Gaming,Sands China,4,2021
+Brazil,Non-Gaming,Venetian,4,2023
+Mexico,Gaming,Plaza Macao,1,2022
+United Kingdom,Non-Gaming,Londoner,8,2021
+Canada,Gaming,Parisian,21,2023
+Australia,Non-Gaming,Sands China,10,2022
+Spain,Gaming,Venetian,10,2021
+Japan,Non-Gaming,Plaza Macao,4,2023
+Russia,Gaming,Londoner,7,2022
+Brazil,Non-Gaming,Parisian,18,2021
+Mexico,Gaming,Sands China,3,2023
+Japan,Non-Gaming,Venetian,13,2022
+United Kingdom,Gaming,Plaza Macao,0,2021
+Canada,Non-Gaming,Londoner,0,2023
+China,Gaming,Parisian,88,2022
+Hong Kong,Non-Gaming,Sands China,77,2021
+Macau,Gaming,Venetian,12,2023
+Malaysia,Non-Gaming,Plaza Macao,8,2022
+Other,Gaming,Londoner,12,2021
+Germany,Non-Gaming,Parisian,32,2023
+France,Gaming,Sands China,6,2022
+Italy,Non-Gaming,Venetian,30,2021
+South Korea,Gaming,Plaza Macao,5,2023
+United States,Non-Gaming,Londoner,4,2022
+India,Gaming,Parisian,16,2021
+Russia,Non-Gaming,Sands China,15,2023
+Brazil,Gaming,Venetian,17,2022
+Mexico,Non-Gaming,Plaza Macao,20,2021
+United Kingdom,Gaming,Londoner,17,2023
+Canada,Non-Gaming,Parisian,27,2022
+Australia,Gaming,Sands China,1,2021
+Spain,Non-Gaming,Venetian,13,2023
+Japan,Gaming,Plaza Macao,15,2022
+China,Non-Gaming,Londoner,79,2021
+Hong Kong,Gaming,Parisian,25,2023
+Macau,Non-Gaming,Sands China,14,2022
+Malaysia,Gaming,Venetian,18,2021
+Other,Non-Gaming,Plaza Macao,14,2023
+Germany,Gaming,Londoner,3,2022
+France,Non-Gaming,Parisian,18,2021
+Italy,Gaming,Sands China,18,2023
+South Korea,Non-Gaming,Venetian,8,2022
+United States,Gaming,Plaza Macao,10,2021
+India,Non-Gaming,Londoner,2,2023
+Russia,Gaming,Parisian,9,2022
+Brazil,Non-Gaming,Sands China,45,2021
+Mexico,Gaming,Venetian,35,2023
+United Kingdom,Non-Gaming,Plaza Macao,33,2022
+Canada,Gaming,Londoner,21,2021
+Australia,Non-Gaming,Parisian,15,2023
+Spain,Gaming,Sands China,37,2022
+Japan,Non-Gaming,Venetian,9,2021
+China,Gaming,Plaza Macao,38,2023
+Hong Kong,Non-Gaming,Londoner,70,2022
+Macau,Gaming,Parisian,55,2021
+Malaysia,Non-Gaming,Sands China,25,2023
+Other,Gaming,Venetian,30,2022
+Germany,Non-Gaming,Plaza Macao,26,2021
+France,Gaming,Londoner,30,2023
+Italy,Non-Gaming,Parisian,18,2022
+South Korea,Gaming,Sands China,26,2021
+United States,Non-Gaming,Venetian,4,2023
+India,Gaming,Plaza Macao,16,2022
+Russia,Non-Gaming,Londoner,24,2021
+Brazil,Gaming,Parisian,14,2023
+Mexico,Non-Gaming,Sands China,21,2022
+United Kingdom,Gaming,Venetian,28,2021
+Canada,Non-Gaming,Plaza Macao,27,2023
+Australia,Gaming,Londoner,24,2022
+Spain,Non-Gaming,Parisian,6,2021
+Japan,Gaming,Sands China,25,2023
+China,Non-Gaming,Venetian,85,2022
+Hong Kong,Gaming,Plaza Macao,66,2021
+Macau,Non-Gaming,Londoner,19,2023
+Malaysia,Gaming,Parisian,4,2022
+Other,Non-Gaming,Sands China,11,2021
+Germany,Gaming,Venetian,45,2023
+France,Non-Gaming,Plaza Macao,51,2022
+Italy,Gaming,Londoner,34,2021
+South Korea,Non-Gaming,Parisian,32,2023
+United States,Gaming,Sands China,8,2022
+India,Non-Gaming,Venetian,34,2021
+Russia,Gaming,Plaza Macao,37,2023
+Brazil,Non-Gaming,Londoner,14,2022
+Mexico,Gaming,Parisian,27,2021
+United Kingdom,Non-Gaming,Sands China,6,2023
+Canada,Gaming,Venetian,16,2022
+Australia,Non-Gaming,Plaza Macao,48,2021
+Spain,Gaming,Londoner,36,2023
+Japan,Non-Gaming,Parisian,34,2022
+China,Gaming,Sands China,63,2021
+Hong Kong,Non-Gaming,Venetian,80,2023
+Macau,Gaming,Plaza Macao,28,2022
+Malaysia,Non-Gaming,Londoner,6,2021
+Other,Gaming,Parisian,29,2023
+Germany,Non-Gaming,Sands China,5,2022
+France,Gaming,Venetian,4,2021
+Italy,Non-Gaming,Plaza Macao,33,2023
+South Korea,Gaming,Londoner,34,2022
+United States,Non-Gaming,Parisian,23,2021
+India,Gaming,Sands China,27,2023
+Russia,Non-Gaming,Venetian,18,2022
+Brazil,Gaming,Plaza Macao,24,2021
+Mexico,Non-Gaming,Londoner,2,2023
+United Kingdom,Gaming,Parisian,13,2022
+Canada,Non-Gaming,Sands China,20,2021
+Australia,Gaming,Venetian,11,2023
+Spain,Non-Gaming,Plaza Macao,30,2022
+Japan,Gaming,Londoner,38,2021
+China,Non-Gaming,Parisian,33,2023
+Hong Kong,Gaming,Sands China,40,2022
+Macau,Non-Gaming,Venetian,33,2021
+Malaysia,Gaming,Plaza Macao,35,2023
+Other,Non-Gaming,Londoner,3,2022
+Germany,Gaming,Parisian,18,2021
+France,Non-Gaming,Sands China,28,2023
+Italy,Gaming,Venetian,16,2022
+South Korea,Non-Gaming,Plaza Macao,18,2021
+United States,Gaming,Londoner,32,2023
+India,Non-Gaming,Parisian,31,2022
+Russia,Gaming,Sands China,28,2021
+Brazil,Non-Gaming,Venetian,5,2023
+Mexico,Gaming,Plaza Macao,26,2022
+United Kingdom,Non-Gaming,Londoner,28,2021
+Canada,Gaming,Parisian,10,2023
+Australia,Non-Gaming,Sands China,20,2022
+Spain,Gaming,Venetian,4,2021
+Japan,Non-Gaming,Plaza Macao,12,2023
+China,Gaming,Londoner,36,2022
+Hong Kong,Non-Gaming,Parisian,25,2021
+Macau,Gaming,Sands China,30,2023
+Malaysia,Non-Gaming,Venetian,16,2022
+Other,Gaming,Plaza Macao,9,2021
+Germany,Non-Gaming,Londoner,25,2023
+France,Gaming,Parisian,4,2022
+Italy,Non-Gaming,Sands China,25,2021
+South Korea,Gaming,Venetian,3,2023
+United States,Non-Gaming,Plaza Macao,3,2022
+India,Gaming,Londoner,10,2021
+Russia,Non-Gaming,Parisian,21,2023
+Brazil,Gaming,Sands China,22,2022
+Mexico,Non-Gaming,Venetian,25,2021
+United Kingdom,Gaming,Plaza Macao,3,2023
+Canada,Non-Gaming,Londoner,12,2022
+Australia,Gaming,Parisian,8,2021
+Spain,Non-Gaming,Sands China,6,2023
+Japan,Gaming,Venetian,6,2022
+China,Non-Gaming,Plaza Macao,88,2021
+Hong Kong,Gaming,Londoner,65,2023
+Macau,Non-Gaming,Parisian,24,2022
+Malaysia,Gaming,Sands China,12,2021
+Other,Non-Gaming,Venetian,12,2023
+Germany,Gaming,Plaza Macao,5,2022
+France,Non-Gaming,Londoner,8,2021
+Italy,Gaming,Parisian,20,2023
+South Korea,Non-Gaming,Sands China,4,2022
+United States,Gaming,Venetian,15,2021
+India,Non-Gaming,Plaza Macao,1,2023
+Russia,Gaming,Londoner,0,2022
+Brazil,Non-Gaming,Parisian,10,2021
+Mexico,Gaming,Sands China,13,2023
+United Kingdom,Non-Gaming,Venetian,19,2022
+Canada,Gaming,Plaza Macao,18,2021
+Australia,Non-Gaming,Londoner,12,2023
+Spain,Gaming,Parisian,10,2022
+Japan,Non-Gaming,Sands China,0,2021
+United States,Gaming,Venetian,10,2023
+India,Non-Gaming,Plaza Macao,6,2022
+Russia,Gaming,Londoner,6,2021
